@@ -6,7 +6,7 @@ public class Condition {
 		// TODO Auto-generated method stub
 		int a=10;
 		if(a<20) {
-			System.out.println("True");
+			System.out.println("True ");
 		}
 		else {
 			System.out.println("False");
