@@ -4,5 +4,4 @@ public class Samples {
 	int printName() {
 		System.out.println("This is Nithish");
 		return 0;
-	}
 }
