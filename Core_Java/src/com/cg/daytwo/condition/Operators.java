@@ -1,11 +1,10 @@
-package com.cg.dayone;
+package com.cg.daytwo.condition;
 
 import java.util.Scanner;
 
-public class Basics {
+public class Operators {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Arithmetic operators");
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number1:");

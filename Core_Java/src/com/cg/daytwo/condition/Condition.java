@@ -8,9 +8,7 @@ public class Condition {
 		if(a<20) {
 			System.out.println("True ");
 		}
-		else {
-			System.out.println("False");
-		}
+		
 
 	}
 
